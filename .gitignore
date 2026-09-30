@@ -7,3 +7,9 @@ __pycache__/
 *.ckpt
 *.onnx
 .DS_Store
+*.keras
+*.npy
+*.npz
+*.mat
+.venv/
+venv/
